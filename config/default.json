@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://mario:mario1234@ds143738.mlab.com:43738/mern_stack",
+  "jwtSecret": "my_jwt_secret"
+}
